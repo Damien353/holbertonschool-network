@@ -111,4 +111,6 @@ All that, just to perform a simple Google search.
 
 ## Diagram
 
+While the explanation above breaks down each step conceptually, the diagram below helps you understand how they connect as part of a single flow.
+
 <img width="238" alt="Diagram internet" src="https://github.com/user-attachments/assets/727662a8-10bc-459a-8cfb-91707af3c25f" />
