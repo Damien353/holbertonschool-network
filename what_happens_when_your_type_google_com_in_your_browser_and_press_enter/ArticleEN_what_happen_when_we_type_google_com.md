@@ -106,3 +106,9 @@ In just milliseconds, typing a URL triggers a chain of events involving:
 ✅ Rendering in your browser
 
 All that, just to perform a simple Google search.
+
+---
+
+## Diagram
+
+<img width="238" alt="Diagram internet" src="https://github.com/user-attachments/assets/727662a8-10bc-459a-8cfb-91707af3c25f" />
