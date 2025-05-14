@@ -106,3 +106,11 @@ En quelques millisecondes, taper une URL déclenche une chaîne d'événements i
 ✅ Rendu dans le navigateur
 
 Tout cela pour que vous puissiez faire une simple recherche Google.
+
+---
+
+## Diagramme
+
+Si l’explication précédente détaille les étapes une à une, le schéma ci-dessous permet de comprendre comment elles s’enchaînent dans un flux global.
+
+<img width="238" alt="Diagram internet" src="https://github.com/user-attachments/assets/916c764f-975f-4dcf-968e-3bd907721219" />
