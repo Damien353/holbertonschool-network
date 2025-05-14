@@ -1,0 +1,2 @@
+[Article en Anglais](https://github.com/Damien353/holbertonschool-network/blob/main/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/ArticleEN_what_happen_when_we_type_google_com.md)
+[Artcile en Français](https://github.com/Damien353/holbertonschool-network/blob/main/what_happens_when_your_type_google_com_in_your_browser_and_press_enter/ArticleFR_what_happen_when_we_type_google_com.md)
